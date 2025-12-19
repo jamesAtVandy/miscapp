@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+
+# Virtual envs
+.venv/
+venv/
+MyEnv/
+
+# IDE / OS
+.idea/
+.vscode/
+*.code-workspace
+.DS_Store
+Thumbs.db
+
+# Node / frontend
+node_modules/
+.dist/
+.build/
+
+# Media / misc
+*.mp4
+*.avi
